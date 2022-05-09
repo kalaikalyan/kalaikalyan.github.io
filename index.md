@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## My Portfolio
 
-You can use the [editor on GitHub](https://github.com/kalaikalyan/kalaikalyan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Great seeing you here!
 
-### Markdown
+### About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +28,14 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Work/Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalaikalyan/kalaikalyan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any doubts or questions about anything, feel free to contact me at kkalyanasundaram@my365.bellevue.edu. I have also attached my LinkedIn and Github profile below!
+
+- Here is my LinkedIn profile: [Link](https://www.linkedin.com/in/kalaivani-kalyanasundaram-5bb858101)
+- Here is my GitHub profile: [Link](https://github.com/kalaikalyan)
+
