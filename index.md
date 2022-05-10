@@ -13,7 +13,7 @@ I am a Risk & Protection Specialist at PayPal. I am currently pursuing a Master'
 
 ## Work/Projects
 
-1. **Blog post on airline safety: **
+1. **Blog post on airline safety**: 
 I created a blog post on airline safety using wix.com, which highlights many visuals. These visualizations were developed with PowerBI to highlight important information on Air Travel safety and how air travel is the safest mode of travel based on our dataset.
 Home | Airline Safety (kalaikalyank.wixsite.com)
 
