@@ -50,5 +50,5 @@ This project uses the R dyplr package to learn more about Covid vaccinations. Du
 If you have any doubts or questions about anything, feel free to contact me at kkalyanasundaram@my365.bellevue.edu. I have also attached my LinkedIn and Github profile below!
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/kalaivani-kalyanasundaram-5bb858101)
-- [My GitHub](https://github.com/kalaikalyan)
+- [My GitHub](https://github.com/kalaikalyan/DSC680Portfolio)
 
