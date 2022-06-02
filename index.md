@@ -23,13 +23,12 @@ I have decided to make an infographic on airline safety. In this infographic, I 
 3. **Project for Hotel Recommendations**: 
 I implemented a model to come up with Hotel Recommendations. I use the csv dataset and perform Exploratory Data Analysis on the Hotels to come up with optimal hotel recommendations based on the model. 
 
-4. **Prediction on Heart Diseases (CVDs) Executive Summary**: 
+4. **Prediction on Heart Diseases (CVDs) Executive Summary**: [Github Link] https://github.com/kalaikalyan/DSC680Portfolio/blob/main/CVDModels.ipynb
 Heart disease, known as cardiovascular diseases (CVDs), is the leading cause of death in the United States and is estimated to be 32% of all deaths worldwide (Who Health Organization, 2022). With this in mind, it becomes apparent that early detection of CVDs is extremely important. CVDs are a group of disorders that affect the ability of the heart to function properly. So I decided to work on crisp DM methodology to identify data, analyze and accurately predict CVD models.
 
-5. **Case study Report—Factors on Sales**: 
+5. **Case study Report—Factors on Sales**: [Github Link] https://github.com/kalaikalyan/DSC680Portfolio/blob/main/KalaiKalyan%20DSC680%20Milestone%203%20Project%202%20(1).ipynb
 I have chosen to learn the sales record of different items in different regions. This study gives us an idea of the general requirement/demand of a particular item in a given region. Also, it helps to find the profitability and the number of units sold in a particular region. This case study further shows us the importance of several factors on sales for businesses.
 
-6. **Project on Sales Record in a Particular Region**: 
 Read the sales data and did some cleaning and created some subsets to determine the food products sale in different region. Also represented the results in different charts. Removed  the useless/unimportant features and ran a confusion matrix to find the accuracy of the results. This resulted in finding important factors affecting sales records.
 
 7. **Dashboard on Airline safety using Power BI**: 
@@ -49,6 +48,7 @@ This project uses the R dyplr package to learn more about Covid vaccinations. Du
 
 If you have any doubts or questions about anything, feel free to contact me at kkalyanasundaram@my365.bellevue.edu. I have also attached my LinkedIn and Github profile below!
 
+- [My Resume](https://github.com/kalaikalyan/kalaikalyan.github.io/blob/main/Kalai%2BResume.pdf)
 - [My LinkedIn Profile](https://www.linkedin.com/in/kalaivani-kalyanasundaram-5bb858101)
 - [My GitHub](https://github.com/kalaikalyan/DSC680Portfolio)
 
